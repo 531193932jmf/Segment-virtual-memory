@@ -1,0 +1,2 @@
+﻿  MFC_OS.cpp
+d:\microsoft visual studio\vs2017\vc\tools\msvc\14.16.27023\atlmfc\include\afxv_w32.h(16): fatal error C1189: #error:  WINDOWS.H already included.  MFC apps must not #include <Windows.h>
